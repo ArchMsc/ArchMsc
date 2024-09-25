@@ -61,6 +61,12 @@
       <a href="https://validator.archmsc.click/archmsc/project/warden">WARDEN</a>
   </td>
   </tr>
+    </td>
+    </tr>
+    <td align="center">
+      <a href="https://github.com/ArchMsc/Elixir-Guide">Elixir</a>
+  </td>
+  </tr>
 
 </table>
 
