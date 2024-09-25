@@ -64,7 +64,7 @@
     </td>
     </tr>
     <td align="center">
-      <a href="https://github.com/ArchMsc/Elixir-Guide">Elixir</a>
+      <a href="https://github.com/ArchMsc/Elixir-Guide">ELIXIR</a>
   </td>
   </tr>
 
