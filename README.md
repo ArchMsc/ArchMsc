@@ -31,7 +31,14 @@
       </td>
 
   </tr>
-
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/D4E0BAQG8WeDuJs4k7g/company-logo_200_200/0/1718128649065/zenrocklab_logo?e=2147483647&v=beta&t=AtSn3mG6y-KMSYNgsZO7_rSuEnIOYauym90QF35PUdM" alt="Лого 1" width="300"/><br>
+      <a href="https://validator.archmsc.click/archmsc/zenrock">zenrock</a>
+    </td>
+        <td align="center">
+      <img src="https://public.rootdata.com/images/b19/1668873179301.jpg" alt="Лого 1" width="300"/><br>
+      <a href="https://validator.archmsc.click/archmsc/jackal">jackal</a>
+    </td>
   </tr>
   
 </table>
